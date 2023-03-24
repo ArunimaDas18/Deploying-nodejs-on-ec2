@@ -1,6 +1,6 @@
 # Node Hello World
 
-Simple node.js app that servers "A Monk in Cloud"
+Simple node.js app that servers "Hello World!"
 
 Great for testing simple deployments on Cloud
 
@@ -55,7 +55,7 @@ https://github.com/ArunimaDas18/Deploying-nodejs-on-ec2.git
 Get inside the directory and Install Packages
 
 ```bash
-cd nodejs-on-ec2
+Deploying-nodejs-on-ec2
 npm install
 ```
 
