@@ -40,7 +40,7 @@ sudo apt-get install git -y
 
 Just to verify if system has git installed or not, please run below command in terminal:
 ```bash
-git — version
+git --version
 ```
 
 This command will print the git version in the terminal.
@@ -53,10 +53,10 @@ git clone https://github.com/ArunimaDas18/Deploying-nodejs-on-ec2.git
 
 ```
 
-Get inside the directory and Install Packages
+# Step 3: Get inside the directory and Install Packages
 
 ```bash
-Deploying-nodejs-on-ec2
+cd Deploying-nodejs-on-ec2
 npm install
 ```
 
