@@ -1,8 +1,9 @@
 # Node Hello World
-
 Simple node.js app that servers "Hello World!"
 
 Great for testing simple deployments on Cloud
+
+Create an ec2 instance -> Click on the security tab -> edit inbound rules -> Add rule -> Add Http and Https->save
 
 ## Step 1: Install NodeJS and NPM using nvm
 Install node version manager (nvm) by typing the following at the command line.
